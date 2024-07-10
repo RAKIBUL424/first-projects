@@ -7,3 +7,5 @@ def first_function():
     return sum
 result=first_function()
 print(f"result is {result}")
+
+#for second commit practice
